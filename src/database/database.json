@@ -1,0 +1,1300 @@
+{
+  "results":[
+    {
+      "category": "Ciência",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Qual é o maior planeta do Sistema Solar?",
+      "correct_answer": "Júpiter",
+      "incorrect_answers": [
+        "Marte",
+        "Vênus",
+        "Mercúrio"
+      ]
+    },
+    {
+      "category": "História",
+      "type": "múltipla escolha",
+      "difficulty": "fácil",
+      "question": "Quem foi o primeiro presidente do Brasil?",
+      "correct_answer": "Marechal Deodoro da Fonseca",
+      "incorrect_answers": [
+        "Getúlio Vargas",
+        "Juscelino Kubitschek",
+        "Fernando Henrique Cardoso"
+      ]
+    },
+    {
+      "category": "Geografia",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o rio mais longo do mundo?",
+      "correct_answer": "Nilo",
+      "incorrect_answers": [
+        "Amazonas",
+        "Yangtze",
+        "Mississippi"
+      ]
+    },
+    {
+      "category": "Geografia",
+      "type": "múltipla escolha",
+      "difficulty": "fácil",
+      "question": "Qual é a capital da Austrália?",
+      "correct_answer": "Canberra",
+      "incorrect_answers": [
+        "Sydney",
+        "Melbourne",
+        "Brisbane"
+      ]
+    },
+    {
+      "category": "Ciência",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Qual é a primeira lei da termodinâmica?",
+      "correct_answer": "Lei da Conservação da Energia",
+      "incorrect_answers": [
+        "Lei de Ampère",
+        "Lei de Boyle-Mariotte",
+        "Lei de Faraday"
+      ]
+    },
+    {
+      "category": "Geografia",
+      "type": "múltipla escolha",
+      "difficulty": "fácil",
+      "question": "Qual é o país mais populoso do mundo?",
+      "correct_answer": "China",
+      "incorrect_answers": [
+        "Índia",
+        "Estados Unidos",
+        "Indonésia"
+      ]
+    },
+    {
+      "category": "História",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual foi a causa principal da Primeira Guerra Mundial?",
+      "correct_answer": "Assassinato do arquiduque Francisco Ferdinando",
+      "incorrect_answers": [
+        "Disputas territoriais entre França e Alemanha",
+        "Luta pela independência dos países da América Latina",
+        "Disputa pelo controle das rotas comerciais no Pacífico"
+      ]
+    },
+    {
+      "category": "Ciência",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Qual é a unidade de medida da corrente elétrica?",
+      "correct_answer": "Ampère",
+      "incorrect_answers": [
+        "Volt",
+        "Ohm",
+        "Watt"
+      ]
+    },
+    {
+      "category": "Geografia",
+      "type": "múltipla escolha",
+      "difficulty": "fácil",
+      "question": "Qual é o maior estado do Brasil em área?",
+      "correct_answer": "Amazonas",
+      "incorrect_answers": [
+        "São Paulo",
+        "Minas Gerais",
+        "Bahia"
+      ]
+    },
+    {
+      "category": "Arte",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Qual é a obra mais famosa de Leonardo da Vinci?",
+      "correct_answer": "Mona Lisa",
+      "incorrect_answers": [
+        "A Última Ceia",
+        "O Nascimento de Vênus",
+        "Guernica"
+      ]
+    },
+    {
+      "category": "Ciência",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é a fórmula química da água?",
+      "correct_answer": "H2O",
+      "incorrect_answers": [
+        "CO2",
+        "CH4",
+        "O2"
+      ]
+    },
+    {
+      "category": "Cinema",
+      "type": "múltipla escolha",
+      "difficulty": "fácil",
+      "question": "Qual é o nome do agente secreto britânico criado por Ian Fleming?",
+      "correct_answer": "James Bond",
+      "incorrect_answers": [
+        "Jason Bourne",
+        "Jack Bauer",
+        "John McClane"
+      ]
+    },
+    {
+      "category": "Geografia",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Qual é o país mais populoso do mundo?",
+      "correct_answer": "China",
+      "incorrect_answers": [
+        "Índia",
+        "Estados Unidos",
+        "Indonésia"
+      ]
+    },
+    {
+      "category": "Esportes",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Em que ano o Brasil conquistou a medalha de ouro no futebol masculino nas Olimpíadas?",
+      "correct_answer": "2016",
+      "incorrect_answers": [
+        "2012",
+        "2008",
+        "2004"
+      ]
+    },
+    {
+      "category": "História",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Em que ano foi assinada a Declaração de Independência dos Estados Unidos?",
+      "correct_answer": "1776",
+      "incorrect_answers": [
+        "1789",
+        "1792",
+        "1800"
+      ]
+    },
+    {
+      "category": "Ciência",
+      "type": "múltipla escolha",
+      "difficulty": "fácil",
+      "question": "Qual é o elemento químico mais abundante na crosta terrestre?",
+      "correct_answer": "Oxigênio",
+      "incorrect_answers": [
+        "Carbono",
+        "Silício",
+        "Alumínio"
+      ]
+    },
+    {
+      "category": "Cinema",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Qual é o nome do robô em Wall-E?",
+      "correct_answer": "EVA",
+      "incorrect_answers": [
+        "R2-D2",
+        "BB-8",
+        "C-3PO"
+      ]
+    },
+    {
+      "category": "Esportes",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o único piloto de Fórmula 1 a vencer o campeonato mundial correndo pela equipe Williams?",
+      "correct_answer": "Damon Hill",
+      "incorrect_answers": [
+        "Ayrton Senna",
+        "Michael Schumacher",
+        "Lewis Hamilton"
+      ]
+    },
+    {
+      "category": "História",
+      "type": "múltipla escolha",
+      "difficulty": "fácil",
+      "question": "Em que ano aconteceu a Revolução Francesa?",
+      "correct_answer": "1789",
+      "incorrect_answers": [
+        "1760",
+        "1804",
+        "1830"
+      ]
+    },
+    {
+      "category": "Geografia",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Qual é o maior deserto do mundo?",
+      "correct_answer": "Deserto do Saara",
+      "incorrect_answers": [
+        "Deserto do Atacama",
+        "Deserto do Kalahari",
+        "Deserto da Namíbia"
+      ]
+    },
+    {
+      "category": "Ciência",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o elemento químico mais leve?",
+      "correct_answer": "Hidrogênio",
+      "incorrect_answers": [
+        "Carbono",
+        "Oxigênio",
+        "Nitrogênio"
+      ]
+    },
+    {
+      "category": "Arte",
+      "type": "múltipla escolha",
+      "difficulty": "fácil",
+      "question": "Quem pintou a Mona Lisa?",
+      "correct_answer": "Leonardo da Vinci",
+      "incorrect_answers": [
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Claude Monet"
+      ]
+    },
+    {
+      "category": "Geografia",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é a capital do Iêmen?",
+      "correct_answer": "Sana'a",
+      "incorrect_answers": [
+        "Riad",
+        "Damasco",
+        "Beirute"
+      ]
+    },
+    {
+      "category": "Ciência",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Qual é a unidade de medida de força no Sistema Internacional de Unidades (SI)?",
+      "correct_answer": "Newton",
+      "incorrect_answers": [
+        "Joule",
+        "Watt",
+        "Hertz"
+      ]
+    },
+    {
+      "category": "História",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual foi o período histórico que ficou conhecido como a 'Idade das Trevas'?",
+      "correct_answer": "Idade Média",
+      "incorrect_answers": [
+        "Idade Antiga",
+        "Idade Moderna",
+        "Renascimento"
+      ]
+    },
+    {
+      "category": "Geografia",
+      "type": "múltipla escolha",
+      "difficulty": "fácil",
+      "question": "Qual é o país mais populoso do mundo?",
+      "correct_answer": "China",
+      "incorrect_answers": [
+        "Índia",
+        "Estados Unidos",
+        "Brasil"
+      ]
+    },
+    {
+      "category": "História",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Quem foi o líder da Revolução Cubana?",
+      "correct_answer": "Fidel Castro",
+      "incorrect_answers": [
+        "Che Guevara",
+        "Hugo Chávez",
+        "Augusto Pinochet"
+      ]
+    },
+    {
+      "category": "Ciência",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o elemento químico com o símbolo Hg?",
+      "correct_answer": "Mercúrio",
+      "incorrect_answers": [
+        "Hélio",
+        "Hidrogênio",
+        "Háfnio"
+      ]
+    },
+    {
+      "category": "Arte",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Quem pintou a obra 'A Última Ceia'?",
+      "correct_answer": "Leonardo da Vinci",
+      "incorrect_answers": [
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Claude Monet"
+      ]
+    },
+    {
+      "category": "Geografia",
+      "type": "múltipla escolha",
+      "difficulty": "fácil",
+      "question": "Qual é o maior oceano do mundo?",
+      "correct_answer": "Pacífico",
+      "incorrect_answers": [
+        "Atlântico",
+        "Índico",
+        "Ártico"
+      ]
+    },
+    {
+      "category": "Ciência",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Qual é a menor partícula da matéria?",
+      "correct_answer": "Quark",
+      "incorrect_answers": [
+        "Elétron",
+        "Neutrino",
+        "Próton"
+      ]
+    },
+    {
+      "category": "História",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Em que ano a Segunda Guerra Mundial terminou?",
+      "correct_answer": "1945",
+      "incorrect_answers": [
+        "1941",
+        "1942",
+        "1944"
+      ]
+    },
+    {
+      "category": "Música",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Qual é o nome do guitarrista lendário que tocou com a banda Queen?",
+      "correct_answer": "Brian May",
+      "incorrect_answers": [
+        "Eric Clapton",
+        "Jimi Hendrix",
+        "Eddie Van Halen"
+      ]
+    },
+    {
+      "category": "História",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Quem foi o líder da Revolução Russa de 1917?",
+      "correct_answer": "Vladimir Lenin",
+      "incorrect_answers": [
+        "Joseph Stalin",
+        "Leon Trotsky",
+        "Mikhail Gorbachev"
+      ]
+    },
+    {
+      "category": "Geografia",
+      "type": "múltipla escolha",
+      "difficulty": "fácil",
+      "question": "Qual é o maior país do mundo?",
+      "correct_answer": "Rússia",
+      "incorrect_answers": [
+        "China",
+        "Estados Unidos",
+        "Brasil"
+      ]
+    },
+    {
+      "category": "Ciência",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Qual é o nome do primeiro ser humano a ir para o espaço?",
+      "correct_answer": "Yuri Gagarin",
+      "incorrect_answers": [
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Alan Shepard"
+      ]
+    },
+    {
+      "category": "Culinária",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Qual é o principal ingrediente do guacamole?",
+      "correct_answer": "Abacate",
+      "incorrect_answers": [
+        "Tomate",
+        "Cebola",
+        "Pimentão"
+      ]
+    },
+    {
+      "category": "Esportes",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o jogador de futebol com mais gols marcados em jogos oficiais?",
+      "correct_answer": "Pele",
+      "incorrect_answers": [
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Diego Maradona"
+      ]
+    },
+    {
+      "category": "Música",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Qual é o nome do primeiro álbum da banda Nirvana?",
+      "correct_answer": "Bleach",
+      "incorrect_answers": [
+        "Nevermind",
+        "In Utero",
+        "MTV Unplugged in New York"
+      ]
+    },
+    {
+      "category": "História",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual foi a principal causa da Guerra dos Cem Anos?",
+      "correct_answer": "Disputas territoriais e sucessórias entre a França e a Inglaterra",
+      "incorrect_answers": [
+        "Conflitos religiosos entre católicos e protestantes",
+        "Lutas pelo poder entre nobres rivais",
+        "Diferenças culturais e ideológicas entre a França e a Inglaterra"
+      ]
+    },
+    {
+      "category": "Geografia",
+      "type": "múltipla escolha",
+      "difficulty": "fácil",
+      "question": "Qual é o maior deserto do mundo?",
+      "correct_answer": "Deserto do Saara",
+      "incorrect_answers": [
+        "Deserto da Arábia",
+        "Deserto de Gobi",
+        "Deserto de Atacama"
+      ]
+    },
+    {
+      "category": "Cinema",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Qual é o nome do personagem principal do filme O Grande Lebowski?",
+      "correct_answer": "Jeffrey Lebowski",
+      "incorrect_answers": [
+        "Walter Sobchak",
+        "Donny Kerabatsos",
+        "Jesus Quintana"
+      ]
+    },
+    {
+      "category": "Esportes",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Qual é o nome do jogador de basquete que ficou conhecido como 'Air Jordan'?",
+      "correct_answer": "Michael Jordan",
+      "incorrect_answers": [
+        "Kobe Bryant",
+        "LeBron James",
+        "Magic Johnson"
+      ]
+    },
+    {
+      "category": "História",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Qual é o nome da guerra que ocorreu entre 1939 e 1945?",
+      "correct_answer": "Segunda Guerra Mundial",
+      "incorrect_answers": [
+        "Guerra Fria",
+        "Primeira Guerra Mundial",
+        "Guerra do Vietnã"
+      ]
+    },
+    {
+      "category": "Geografia",
+      "type": "múltipla escolha",
+      "difficulty": "fácil",
+      "question": "Qual é o nome do maior rio do mundo?",
+      "correct_answer": "Amazonas",
+      "incorrect_answers": [
+        "Nilo",
+        "Mississippi",
+        "Yangtzé"
+      ]
+    },
+    {
+      "category": "Cinema",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Qual é o nome do personagem principal do filme \"O Poderoso Chefão\"?",
+      "correct_answer": "Vito Corleone",
+      "incorrect_answers": [
+        "Michael Corleone",
+        "Santino Corleone",
+        "Fredo Corleone"
+      ]
+    },
+    {
+      "category": "Música",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o nome do famoso pianista e compositor de música clássica que era surdo?",
+      "correct_answer": "Ludwig van Beethoven",
+      "incorrect_answers": [
+        "Johann Sebastian Bach",
+        "Wolfgang Amadeus Mozart",
+        "Frédéric Chopin"
+      ]
+    },
+    {
+      "category": "Esportes",
+      "type": "múltipla escolha",
+      "difficulty": "fácil",
+      "question": "Qual é o esporte mais popular no Brasil?",
+      "correct_answer": "Futebol",
+      "incorrect_answers": [
+        "Vôlei",
+        "Basquete",
+        "Tênis"
+      ]
+    },
+    {
+      "category": "Ciência",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Qual é o elemento químico mais abundante no universo?",
+      "correct_answer": "Hidrogênio",
+      "incorrect_answers": [
+        "Oxigênio",
+        "Carbono",
+        "Ferro"
+      ]
+    },
+    {
+      "category": "Arte",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o nome do quadro mais famoso do pintor holandês Vincent van Gogh?",
+      "correct_answer": "Noite Estrelada",
+      "incorrect_answers": [
+        "Girassóis",
+        "Autorretr",
+        "Frédéric Chopin"
+      ]
+    },
+    {
+      "category": "Música",
+      "type": "múltipla escolha",
+      "difficulty": "fácil",
+      "question": "Qual é o nome da banda de rock liderada por Mick Jagger?",
+      "correct_answer": "Rolling Stones",
+      "incorrect_answers": [
+        "The Beatles",
+        "Led Zeppelin",
+        "Pink Floyd"
+      ]
+    },
+    {
+      "category": "Geografia",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Qual é a capital da Espanha?",
+      "correct_answer": "Madri",
+      "incorrect_answers": [
+        "Barcelona",
+        "Sevilha",
+        "Valência"
+      ]
+    },
+    {
+      "category": "Esportes",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o nome do time de futebol com mais títulos da Liga dos Campeões da UEFA?",
+      "correct_answer": "Real Madrid",
+      "incorrect_answers": [
+        "Barcelona",
+        "Liverpool",
+        "Bayern de Munique"
+      ]
+    },
+    {
+      "category": "História",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Qual foi o líder nazista responsável pelo Holocausto?",
+      "correct_answer": "Adolf Eichmann",
+      "incorrect_answers": [
+        "Adolf Hitler",
+        "Heinrich Himmler",
+        "Joseph Goebbels"
+      ]
+    },
+    {
+      "category": "Cinema",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual foi o primeiro filme a ganhar o Oscar de Melhor Filme?",
+      "correct_answer": "Asas",
+      "incorrect_answers": [
+        "E o Vento Levou",
+        "Casablanca",
+        "O Poderoso Chefão"
+      ]
+    },
+    {
+      "category": "Ciência",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Qual é o nome da partícula subatômica com carga elétrica positiva?",
+      "correct_answer": "Próton",
+      "incorrect_answers": [
+        "Nêutron",
+        "Elétron",
+        "Méson"
+      ]
+    },
+    {
+      "category": "Geografia",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Qual é a capital da Austrália?",
+      "correct_answer": "Canberra",
+      "incorrect_answers": [
+        "Sydney",
+        "Melbourne",
+        "Brisbane"
+      ]
+    },
+    {
+      "category": "História",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual foi o primeiro país a declarar independência dos Estados Unidos?",
+      "correct_answer": "Marrocos",
+      "incorrect_answers": [
+        "Canadá",
+        "França",
+        "Espanha"
+      ]
+    },
+    {
+      "category": "Cinema",
+      "type": "múltipla escolha",
+      "difficulty": "fácil",
+      "question": "Qual é o nome do personagem interpretado por Tom Hanks em Forrest Gump?",
+      "correct_answer": "Forrest Gump",
+      "incorrect_answers": [
+        "Andy Dufresne",
+        "Woody",
+        "Josh Baskin"
+      ]
+    },
+    {
+      "category": "Música",
+      "type": "múltipla escolha",
+      "difficulty": "médio",
+      "question": "Qual é o nome do guitarrista da banda Guns N' Roses?",
+      "correct_answer": "Slash",
+      "incorrect_answers": [
+        "Eddie Van Halen",
+        "Jimi Hendrix",
+        "Jimmy Page"
+      ]
+    },
+    {
+      "category": "Esportes",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Quantos Grand Slams de tênis Rafael Nadal ganhou até agora?",
+      "correct_answer": "20",
+      "incorrect_answers": [
+        "18",
+        "16",
+        "14"
+      ]
+    },
+    {
+      "category": "Esportes",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o único jogador de futebol a ter vencido o Ballon d'Or, a Bola de Ouro da FIFA e a Chuteira de Ouro em um mesmo ano?",
+      "correct_answer": "Lionel Messi",
+      "incorrect_answers": [
+        "Cristiano Ronaldo",
+        "Neymar",
+        "Kylian Mbappé"
+      ]
+    },
+    {
+      "category": "Geografia",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o ponto mais alto da América do Sul?",
+      "correct_answer": "Aconcágua",
+      "incorrect_answers": [
+        "Monte Roraima",
+        "Monte Ojos del Salado",
+        "Monte Chimborazo"
+      ]
+    },
+    {
+      "category": "História",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual foi o imperador romano que construiu o Coliseu?",
+      "correct_answer": "Vespasiano",
+      "incorrect_answers": [
+        "Calígula",
+        "Augusto",
+        "Nero"
+      ]
+    },
+    {
+      "category": "Ciência",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é a teoria que descreve a gravidade como uma curvatura no espaço-tempo?",
+      "correct_answer": "Teoria da relatividade geral",
+      "incorrect_answers": [
+        "Teoria da gravidade quântica",
+        "Teoria das cordas",
+        "Teoria M"
+      ]
+    },
+    {
+      "category": "Ciência",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o nome do elemento químico de número atômico 99?",
+      "correct_answer": "Einsteinio",
+      "incorrect_answers": [
+        "Califórnio",
+        "Berquélio",
+        "Cúrio"
+      ]
+    },
+    {
+      "category": "Geografia",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o país mais populoso que não faz fronteira com o mar?",
+      "correct_answer": "China",
+      "incorrect_answers": [
+        "Rússia",
+        "Nigéria",
+        "Etiópia"
+      ]
+    },
+    {
+      "category": "História",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual foi o primeiro presidente eleito democraticamente no Brasil após o período da ditadura militar?",
+      "correct_answer": "Tancredo Neves",
+      "incorrect_answers": [
+        "José Sarney",
+        "Fernando Collor",
+        "Itamar Franco"
+      ]
+    },
+    {
+      "category": "Música",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o nome da primeira ópera escrita por Richard Wagner?",
+      "correct_answer": "Die Feen",
+      "incorrect_answers": [
+        "Tristão e Isolda",
+        "O Navio Fantasma",
+        "O Anel do Nibelungo"
+      ]
+    },
+    {
+      "category": "Esportes",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é a única seleção africana a ter chegado às semis de final de uma Copa do Mundo de futebol?",
+      "correct_answer": "Marrocos",
+      "incorrect_answers": [
+        "Senegal",
+        "Nigéria",
+        "Gana"
+      ]
+    },
+    {
+      "category": "Ciência",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o elemento químico com o ponto de fusão mais alto?",
+      "correct_answer": "Carbono",
+      "incorrect_answers": [
+        "Ouro",
+        "Prata",
+        "Ferro"
+      ]
+    },
+    {
+      "category": "História",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual foi a cidade onde aconteceu o primeiro ataque nuclear?",
+      "correct_answer": "Hiroshima",
+      "incorrect_answers": [
+        "Nagasaki",
+        "Tóquio",
+        "Pequim"
+      ]
+    },
+    {
+      "category": "Esportes",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual foi a primeira seleção a vencer a Copa do Mundo de futebol?",
+      "correct_answer": "Uruguai",
+      "incorrect_answers": [
+        "Brasil",
+        "Itália",
+        "Alemanha"
+      ]
+    },
+    {
+      "category": "Literatura",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o nome do livro mais vendido da história?",
+      "correct_answer": "Bíblia",
+      "incorrect_answers": [
+        "Dom Quixote",
+        "O Pequeno Príncipe",
+        "Cem Anos de Solidão"
+      ]
+    },
+    {
+      "category": "Arte",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o nome da escultura de Auguste Rodin que representa Adão?",
+      "correct_answer": "O Pensador",
+      "incorrect_answers": [
+        "O Beijo",
+        "Os Portões do Inferno",
+        "A Idade do Bronze"
+      ]
+    },
+    {
+      "category": "Ciência",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "O que é o Princípio da Incerteza de Heisenberg?",
+      "correct_answer": "Um princípio da física quântica que afirma que é impossível medir simultaneamente a posição e a velocidade de uma partícula",
+      "incorrect_answers": [
+        "Um princípio da mecânica clássica que afirma que a energia de um sistema isolado permanece constante",
+        "Um princípio da termodinâmica que afirma que a entropia de um sistema isolado sempre aumenta",
+        "Um princípio da relatividade geral que afirma que a gravidade é uma curvatura do espaço-tempo"
+      ]
+    },
+    {
+      "category": "História",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual foi a duração da Guerra dos Cem Anos?",
+      "correct_answer": "116 anos",
+      "incorrect_answers": [
+        "100 anos",
+        "85 anos",
+        "130 anos"
+      ]
+    },
+    {
+      "category": "Filosofia",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é a principal ideia por trás da teoria do existencialismo?",
+      "correct_answer": "A existência precede a essência",
+      "incorrect_answers": [
+        "A felicidade é o objetivo último da vida",
+        "O ser humano é essencialmente bom",
+        "A razão é a fonte de todo conhecimento verdadeiro"
+      ]
+    },
+    {
+      "category": "Literatura",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o título do romance épico escrito por John Milton?",
+      "correct_answer": "Paraíso Perdido",
+      "incorrect_answers": [
+        "Odisseia",
+        "Ilíada",
+        "Os Lusíadas"
+      ]
+    },
+    {
+      "category": "Matemática",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é a conjectura matemática mais famosa?",
+      "correct_answer": "Conjectura de Poincaré",
+      "incorrect_answers": [
+        "Teorema de Fermat",
+        "Conjectura de Goldbach",
+        "Hipótese de Riemann"
+      ]
+    },
+    {
+      "category": "Ciência",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o nome do processo pelo qual um átomo emite radiação?",
+      "correct_answer": "Decaimento",
+      "incorrect_answers": [
+        "Difusão",
+        "Fusão",
+        "Fissão"
+      ]
+    },
+    {
+      "category": "História",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual foi o período de reinado de Luís XIV da França?",
+      "correct_answer": "72 anos",
+      "incorrect_answers": [
+        "50 anos",
+        "60 anos",
+        "80 anos"
+      ]
+    },
+    {
+      "category": "Matemática",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o valor da integral definida de x^3 + 2x^2 + 3x + 4 de 0 a 1?",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "6",
+        "7",
+        "8"
+      ]
+    },
+    {
+      "category": "Filosofia",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o nome da obra de Friedrich Nietzsche que contém a afirmação \"Deus está morto\"?",
+      "correct_answer": "Assim falou Zaratustra",
+      "incorrect_answers": [
+        "Além do bem e do mal",
+        "O anticristo",
+        "A gaia ciência"
+      ]
+    },
+    {
+      "category": "Geografia",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o país mais setentrional do mundo?",
+      "correct_answer": "Rússia",
+      "incorrect_answers": [
+        "Canadá",
+        "Groenlândia",
+        "Noruega"
+      ]
+    },
+    {
+      "category": "Geografia",
+      "type": "múltipla escolha",
+      "difficulty": "fácil",
+      "question": "Qual é a capital do Brasil?",
+      "correct_answer": "Brasília",
+      "incorrect_answers": [
+        "Rio de Janeiro",
+        "São Paulo",
+        "Belo Horizonte"
+      ]
+    },
+    {
+      "category": "Ciência",
+      "type": "múltipla escolha",
+      "difficulty": "fácil",
+      "question": "Qual é a cor do céu em um dia ensolarado?",
+      "correct_answer": "Azul",
+      "incorrect_answers": [
+        "Vermelho",
+        "Verde",
+        "Amarelo"
+      ]
+    },
+    {
+      "category": "Cinema",
+      "type": "múltipla escolha",
+      "difficulty": "fácil",
+      "question": "Qual é o nome do protagonista da saga Star Wars?",
+      "correct_answer": "Luke Skywalker",
+      "incorrect_answers": [
+        "Han Solo",
+        "Obi-Wan Kenobi",
+        "Anakin Skywalker"
+      ]
+    },
+    {
+      "category": "Esportes",
+      "type": "múltipla escolha",
+      "difficulty": "fácil",
+      "question": "Em que esporte se usa uma bola de basquete?",
+      "correct_answer": "Basquete",
+      "incorrect_answers": [
+        "Futebol",
+        "Vôlei",
+        "Tênis"
+      ]
+    },
+    {
+      "category": "Música",
+      "type": "múltipla escolha",
+      "difficulty": "fácil",
+      "question": "Qual é o nome da banda britânica liderada por Freddie Mercury?",
+      "correct_answer": "Queen",
+      "incorrect_answers": [
+        "The Beatles",
+        "Led Zeppelin",
+        "Pink Floyd"
+      ]
+    },
+    {
+      "category": "Ciência",
+      "type": "múltipla escolha",
+      "difficulty": "fácil",
+      "question": "Qual é o nome do animal que representa a medicina?",
+      "correct_answer": "Cobra",
+      "incorrect_answers": [
+        "Leão",
+        "Águia",
+        "Borboleta"
+      ]
+    },
+    {
+      "category": "História",
+      "type": "múltipla escolha",
+      "difficulty": "fácil",
+      "question": "Quem foi o primeiro presidente do Brasil?",
+      "correct_answer": "Deodoro da Fonseca",
+      "incorrect_answers": [
+        "Getúlio Vargas",
+        "Juscelino Kubitschek",
+        "Fernando Henrique Cardoso"
+      ]
+    },
+    {
+      "category": "Matemática",
+      "type": "múltipla escolha",
+      "difficulty": "fácil",
+      "question": "Qual é o resultado da soma de 2 + 2?",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "2",
+        "3",
+        "5"
+      ]
+    },
+    {
+      "category": "Filosofia",
+      "type": "múltipla escolha",
+      "difficulty": "fácil",
+      "question": "Quem foi o filósofo grego mais famoso?",
+      "correct_answer": "Sócrates",
+      "incorrect_answers": [
+        "Platão",
+        "Aristóteles",
+        "Parmênides"
+      ]
+    },
+    {
+      "category": "Ciência",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o nome do processo que ocorre quando a energia do sol é convertida em energia química pelos seres vivos?",
+      "correct_answer": "Fotossíntese",
+      "incorrect_answers": [
+        "Respiração celular",
+        "Digestão",
+        "Reprodução"
+      ]
+    },
+    {
+      "category": "História",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual foi o período histórico em que ocorreu a Revolução Francesa?",
+      "correct_answer": "Fim do século XVIII",
+      "incorrect_answers": [
+        "Início do século XVIII",
+        "Meio do século XVIII",
+        "Início do século XIX"
+      ]
+    },
+    {
+      "category": "Matemática",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o resultado da integral definida de x^2, de 0 a 1?",
+      "correct_answer": "1/3",
+      "incorrect_answers": [
+        "1",
+        "2",
+        "4/3"
+      ]
+    },
+    {
+      "category": "Filosofia",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é a teoria filosófica que afirma que só podemos conhecer a nossa própria mente?",
+      "correct_answer": "Solipsismo",
+      "incorrect_answers": [
+        "Idealismo",
+        "Materialismo",
+        "Realismo"
+      ]
+    },
+    {
+      "category": "Geografia",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o ponto mais alto do continente americano?",
+      "correct_answer": "Aconcágua",
+      "incorrect_answers": [
+        "Monte McKinley",
+        "Monte Logan",
+        "Pico Cristóbal Colón"
+      ]
+    },
+    {
+      "category": "Ciências",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o nome do processo pelo qual o DNA é convertido em RNA?",
+      "correct_answer": "Transcrição",
+      "incorrect_answers": [
+        "Tradução",
+        "Replicação",
+        "Recombinação"
+      ]
+    },
+    {
+      "category": "Ciências",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é a quantidade de tempo que a Terra leva para dar uma volta completa em torno do sol?",
+      "correct_answer": "Um ano",
+      "incorrect_answers": [
+        "Um dia",
+        "Uma hora",
+        "Um mês"
+      ]
+    },
+    {
+      "category": "Ciências",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é a unidade de medida utilizada para medir a quantidade de elétrons em um objeto?",
+      "correct_answer": "Coulomb",
+      "incorrect_answers": [
+        "Ampère",
+        "Ohm",
+        "Watt"
+      ]
+    },
+    {
+      "category": "Ciências",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o nome do processo pelo qual a energia nuclear é liberada a partir da divisão de átomos?",
+      "correct_answer": "Fissão",
+      "incorrect_answers": [
+        "Fusão",
+        "Radioatividade",
+        "Decaimento"
+      ]
+    },
+    {
+      "category": "Física",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é a velocidade da luz no vácuo?",
+      "correct_answer": "299.792.458 metros por segundo",
+      "incorrect_answers": [
+        "30.000.000 metros por segundo",
+        "3.000.000 metros por segundo",
+        "300.000 metros por segundo"
+      ]
+    },
+    {
+      "category": "Física",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o nome da partícula subatômica que é o antielétron?",
+      "correct_answer": "Pósitron",
+      "incorrect_answers": [
+        "Nêutron",
+        "Próton",
+        "Elétron"
+      ]
+    },
+    {
+      "category": "Física",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o nome do conceito da física que afirma que a energia total em um sistema isolado permanece constante?",
+      "correct_answer": "Lei da conservação da energia",
+      "incorrect_answers": [
+        "Lei da gravitação universal",
+        "Lei de Ohm",
+        "Lei de Coulomb"
+      ]
+    },
+    {
+      "category": "Física",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o nome da força que age entre dois objetos com massa?",
+      "correct_answer": "Força gravitacional",
+      "incorrect_answers": [
+        "Força eletromagnética",
+        "Força nuclear forte",
+        "Força nuclear fraca"
+      ]
+    },
+    {
+      "category": "Física",
+      "type": "múltipla escolha",
+      "difficulty": "difícil",
+      "question": "Qual é o nome do conceito da física que afirma que a medida de uma partícula subatômica não pode ser feita sem afetar o estado da própria partícula?",
+      "correct_answer": "Princípio da incerteza de Heisenberg",
+      "incorrect_answers": [
+        "Lei de Snell-Descartes",
+        "Lei de Newton",
+        "Teoria da relatividade"
+      ]
+    }
+  ]
+}
