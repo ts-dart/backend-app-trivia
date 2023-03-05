@@ -1,7 +1,12 @@
 {
   "public": true,
-  "build": {
+  "builds": {
     "src": "build/api.js",
     "use": "@vercel/node"
-  }
+  },
+  "routes": [
+    {
+      "src": "/(.*)"
+    }
+  ]
 }
