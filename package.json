@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "tsnd ./src/api.ts",
     "start": "npx tsc && node ./build/api.js",
-    "build": "npm start"
+    "build": "node ./build/api.js"
   },
   "author": "",
   "license": "ISC",
