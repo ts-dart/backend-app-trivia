@@ -1,0 +1,7 @@
+{
+  "public": true,
+  "build": {
+    "src": "build/api.js",
+    "use": "@vercel/node"
+  }
+}
