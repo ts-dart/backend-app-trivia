@@ -42,3 +42,5 @@ interface questionInfo {
   type: string,
   allAnswers: string[],
 }
+
+export default app;
