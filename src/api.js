@@ -1,25 +1,23 @@
-import * as fs from 'fs';
-import { Request, Response } from 'express';
-
-import express from 'express';
-import cors from 'cors';
+const fs = require('fs'); 
+const express = require('express');
+const cors = require('cors');
 
 const app = express();
 
 app.use(express.json());
 app.use(cors());
 
-app.get('/questions', (_req:Request, res:Response) => {
+app.get('/questions', (_req, res) => {
   fs.readFile('src/database/database.json', (err, data) => {
     if (err) throw err;
-    const { results: questions } = JSON.parse(data as any);
+    const { results: questions } = JSON.parse(data);
     return res.status(200).send(createArrWithTenQuestions(questions));
   });
 });
 
 app.listen(3002, () => console.log('online'));
 
-function createArrWithTenQuestions(questions:questionInfo[]):questionInfo[] {
+function createArrWithTenQuestions(questions) {
   const arr = new Array();
   const numbers = new Array();
   for (const i in new Array(1,2,3,4,5,6,7,8,9,10)) {
@@ -33,14 +31,4 @@ function createArrWithTenQuestions(questions:questionInfo[]):questionInfo[] {
   return arr;
 }
 
-interface questionInfo {
-  category: string,
-  correctAnswer: string,
-  difficulty: string,
-  incorrectAnswers: string[],
-  question: string,
-  type: string,
-  allAnswers: string[],
-}
-
-export default app;
+module.exports = app;
