@@ -1,14 +1,16 @@
 const fs = require('fs'); 
 const express = require('express');
 const cors = require('cors');
+const path = require('path');
 
+const databasePath = path.join(__dirname, 'database.json');
 const app = express();
 
 app.use(express.json());
 app.use(cors());
 
 app.get('/', (_req, res) => {
-  fs.readFile('database.json', (err, data) => {
+  fs.readFile(databasePath, (err, data) => {
     if (err) throw err;
     const { results: questions } = JSON.parse(data);
     return res.status(200).send(createArrWithTenQuestions(questions));
