@@ -1,15 +1,15 @@
 {
   "version": 2,
+  "builds": [
+    {
+      "src": "./build/api.js",
+      "use": "@now/node"
+    }
+  ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "./src/api.ts"
-    }
-  ],
-  "builds": [
-    {
-      "src": "./src/api.ts",
-      "use": "@now/node"
+      "dest": "./build/api.js"
     }
   ]
 }

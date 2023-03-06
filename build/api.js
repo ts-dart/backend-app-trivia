@@ -54,3 +54,4 @@ function createArrWithTenQuestions(questions) {
     }
     return arr;
 }
+exports.default = app;
