@@ -8,14 +8,14 @@ app.use(express.json());
 app.use(cors());
 
 app.get('/', (_req, res) => {
-  fs.readFile('database/database.json', (err, data) => {
+  fs.readFile('database.json', (err, data) => {
     if (err) throw err;
     const { results: questions } = JSON.parse(data);
     return res.status(200).send(createArrWithTenQuestions(questions));
   });
 });
 
-app.listen(4000, () => console.log('online'));
+app.listen(3001, () => console.log('online'));
 
 function createArrWithTenQuestions(questions) {
   const arr = new Array();
