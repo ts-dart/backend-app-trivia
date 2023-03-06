@@ -7,7 +7,7 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
-app.get('/questions', (_req, res) => {
+app.get('/', (_req, res) => {
   fs.readFile('database/database.json', (err, data) => {
     if (err) throw err;
     const { results: questions } = JSON.parse(data);
